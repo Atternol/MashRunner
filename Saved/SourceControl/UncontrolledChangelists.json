@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/Maps/MAP_Debug.umap",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/PaperAssets/Background/T_Field.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/PaperAssets/Runner/T_Runner.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/PaperAssets/Runner/FB_Runner_Run.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_9.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_8.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_7.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_6.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_5.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_4.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_3.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_2.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_1.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_0.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/PaperAssets/Runner/FB_Runner_Idle.uasset"
+			]
+		}
+	]
+}
