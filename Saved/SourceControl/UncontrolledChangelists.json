@@ -29,7 +29,18 @@
 				"Q:/GitHub/Games/MashRunner/MashRunner/Content/Input/Actions/IA_PowerRight.uasset",
 				"Q:/GitHub/Games/MashRunner/MashRunner/Content/Input/Actions/IA_PowerLeft.uasset",
 				"Q:/GitHub/Games/MashRunner/MashRunner/Content/Input/IMC_Runner.uasset",
-				"Q:/GitHub/Games/MashRunner/MashRunner/Content/Blueprints/GM_Runner.uasset"
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/Blueprints/GM_Runner.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/Blueprints/Enums/E_Input.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/Curves/C_SpeedIncreaseRamp.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/Curves/C_SpeedDecreaseRamp.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/Sounds/Footsteps/S_Step_2.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/Sounds/Footsteps/S_Step_1.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/Sounds/Footsteps/Q_Footstep.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/Sounds/Footsteps/Que_Footstep.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/Maps/MAP_Field.umap",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/Blueprints/BP_Field.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/Blueprints/AI/AIC_Runner.uasset",
+				"Q:/GitHub/Games/MashRunner/MashRunner/Content/Blueprints/BP_Goal.uasset"
 			]
 		}
 	]
